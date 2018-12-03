@@ -21,7 +21,7 @@ sourceCompatibility = 1.8
 targetCompatibility = 1.8
 
 dependencies {
-    ccompile("org.springframework.boot:spring-boot-starter-web:1.5.9.RELEASE")
+    compile("org.springframework.boot:spring-boot-starter-web:1.5.9.RELEASE")
     testCompile("junit:junit")
 }
 
